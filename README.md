@@ -11,7 +11,9 @@ Let's now assume that you've a stock portfolio with below stocks.
 - Long 100 shares in APPLE (AAPL)
 - Short 100 shares in MICROSOFT (MSFT)
 - Short 50 shares in NETFLIX (NFLX)
+
 Problem statement 1: Compute the net daily returns of the portfolio.
+
 Problem statement 2: Compute the net weekly returns of the portfolio.
 
 Task 3:
